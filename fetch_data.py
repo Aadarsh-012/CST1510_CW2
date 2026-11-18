@@ -8,7 +8,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-# ---- Settings -----------------------------------------------------------
+# ---- Settings ---------------------------------------------------------
 
 URL = "https://api.github.com/orgs/python/repos"
 PARAMS = {"per_page": 100}
