@@ -1,8 +1,6 @@
 """
 auth.py - Week 9: register and log in from the terminal.
-
 Passwords are hashed with bcrypt. Users are kept in DATA/users.txt, one per line: username,hash
-
 Run it:  python auth.py
 """
 
